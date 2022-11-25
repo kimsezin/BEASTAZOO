@@ -74,11 +74,11 @@
 
 - 판매 등록
 
-![판매등록](C:\Users\multicampus\Desktop\깃\BEASTA-ZOO\assets\판매등록.gif)
+![판매등록](./assets/판매등록.gif)
 
 - 구매
 
-![구매](C:\Users\multicampus\Desktop\깃\BEASTA-ZOO\assets\구매.gif)
+![구매](./assets/구매.gif)
 
 <br/>
 
